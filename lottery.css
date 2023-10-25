@@ -130,3 +130,39 @@ position: absolute;
     width: 30px;
     margin-top: 20px;
 }
+@media(max-width:400px){
+    .sad{
+        font-size: 23px
+    }
+    .sae{
+       font-size: 17px 
+    }
+.cane{
+    display: block;
+    height: 90vh;
+    width: 80%;
+}
+    .sui{
+    margin: 23px auto;
+        margin-left: 100px;
+        
+    }
+    #class{
+        height 120vh;
+    }
+}
+@media(min-width:550px) and (max-width:700px){
+    .sad{
+        font-size: 28px;
+    }
+    .sae{
+        font-size: 20px;
+    }
+    .cane{
+        width: 90%;
+    }
+    .sui{
+        width:100%;
+    }
+}
+}
